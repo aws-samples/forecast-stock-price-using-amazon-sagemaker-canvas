@@ -16,7 +16,7 @@
 In this lab, you will assume the role of a financial analyst working for a stock investing institution. You will use historical stock price for a fictitious company XXYZ, dated between 2016 and 2020, to build a forecast model, and use it to predict future stock price. For those interested, a jupyter notebook is provided for the construction of the simulated dataset [here](./Data/Simulated_Stock_Price.ipynb). 
 
 
-> DISCLAIMER. The exercise is merely to walk through the steps required to build a forecast model against simulated time series data. Investors should consider investing only if they can accept the risks associated with investing including a loss of invested capital. 
+> DISCLAIMER. The exercise is to merely walk through the steps required to build a forecast model against simulated time series data. Investors should consider investing only if they can accept the risks associated with investing including a loss of invested capital. 
 
 
 For purpose of this lab, the data schema is defined as follows. The stock symbol is stored as "Item_Id" , trading date as "Date", and closing price as "Close" for easy reference. You may download the [CSV file](./Data/daily_close_price.csv) before proceeding. 
